@@ -1,0 +1,7 @@
+[
+ {"user_id":"U1","name":"Ananya Rao","email":"ananya@mail.com","phone":"9876500001","city":"Hyderabad"},
+ {"user_id":"U2","name":"Rohit Kumar","email":"rohit@mail.com","phone":"9876500002","city":"Chennai"},
+ {"user_id":"U3","name":"Sneha Reddy","email":"sneha@mail.com","phone":"9876500003","city":"Hyderabad"},
+ {"user_id":"U4","name":"Imran Khan","email":"imran@mail.com","phone":"9876500004","city":"Pune"},
+ {"user_id":"U5","name":"Divya Nair","email":"divya@mail.com","phone":"9876500005","city":"Kochi"}
+]
