@@ -12,7 +12,7 @@ A MongoDB (NoSQL) database project that tracks users, accounts, income, expenses
 ## Files
 - users.json, accounts.json, transactions.json, budgets.json: sample data
 - queries.md: all queries with their purpose
-- screenshots/: output screenshots
+
 
 ## Operations covered
 Create, Read, Update, Delete, Aggregation ($match, $group, $sort), Join ($lookup)
