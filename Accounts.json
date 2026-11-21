@@ -1,7 +1,0 @@
-[
- {"account_id":"A1","user_id":"U1","type":"UPI","balance":15000},
- {"account_id":"A2","user_id":"U1","type":"Cash","balance":2000},
- {"account_id":"A3","user_id":"U2","type":"Card","balance":42000},
- {"account_id":"A4","user_id":"U3","type":"UPI","balance":8500},
- {"account_id":"A5","user_id":"U4","type":"Card","balance":25000}
-]
