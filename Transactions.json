@@ -1,0 +1,10 @@
+[
+ {"txn_id":"T101","account_id":"A1","date":"2026-11-01","type":"income","category":"Salary","amount":30000,"note":"Monthly salary"},
+ {"txn_id":"T102","account_id":"A1","date":"2026-11-03","type":"expense","category":"Food","amount":450,"note":"Lunch"},
+ {"txn_id":"T103","account_id":"A1","date":"2026-11-05","type":"expense","category":"Travel","amount":1200,"note":"Cab and metro"},
+ {"txn_id":"T104","account_id":"A3","date":"2026-11-06","type":"expense","category":"Shopping","amount":5600,"note":"Clothes"},
+ {"txn_id":"T105","account_id":"A4","date":"2026-11-07","type":"expense","category":"Food","amount":800,"note":"Dinner"},
+ {"txn_id":"T106","account_id":"A2","date":"2026-11-08","type":"expense","category":"Food","amount":300,"note":"Snacks"},
+ {"txn_id":"T107","account_id":"A5","date":"2026-11-10","type":"income","category":"Freelance","amount":12000,"note":"Project payment"},
+ {"txn_id":"T108","account_id":"A3","date":"2026-11-12","type":"expense","category":"Bills","amount":2200,"note":"Electricity bill"}
+]
