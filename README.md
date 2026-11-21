@@ -1,6 +1,6 @@
-# Fientrack-mongodb
+# Feintrack-mongodb
 Personal Finance and expense tracker using Mongodb.
-# FinTrack: Personal Finance and Expense Tracker
+# FeinTrack: Personal Finance and Expense Tracker
 
 A MongoDB (NoSQL) database project that tracks users, accounts, income, expenses and monthly budgets.
 
